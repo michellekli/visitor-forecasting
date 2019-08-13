@@ -1,3 +1,6 @@
+# Slide Deck Presentation
+[![Slide deck presentation.](https://github.com/michellekli/visitor-forecasting/blob/master/presentation-preview.jpg)](https://github.com/michellekli/visitor-forecasting/blob/master/visitor-forecasting-presentation.pdf)
+
 # Introduction
 Restaurants operate in the tricky business of serving perishable products. Accurately forecasting customer demand is essential for increasing profits, since it allows for reduction of food wastage and labor costs. With forecasts, managers can predict how much perishable inventory to keep on hand and predict how much food should be prepped at the beginning of each day. Managers can also schedule sufficient staff according to forecasts to ensure customer satisfaction during normal and peak hours. Increased scheduling efficiency also benefits the staff because managers can more easily ensure their staff are assigned enough shifts for their livelihood and are not being overworked.
 
